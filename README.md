@@ -1,3 +1,5 @@
+Amirreza Inanloo 401105667
+
 # Mastermind-CLI-Game
 how to run:
 ```
