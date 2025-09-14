@@ -67,7 +67,8 @@ swiftc main.swift -o mastermind.exe
 ## 📸 First Launch
 When you start the game, you should see the title banner, instructions, and menu options.
 
-![alt text](image.png)
+<img width="622" height="347" alt="image" src="https://github.com/user-attachments/assets/f19be780-f310-46c4-8b56-d2509062cd0d" />
+
 
 ---
 
@@ -98,7 +99,8 @@ start
 ```
 **Expected:** Red error message: `Invalid choice. Please try again.`
 
-![alt text](image-1.png)
+<img width="380" height="245" alt="image" src="https://github.com/user-attachments/assets/d76760fd-108a-4e3e-a73b-a392706a3815" />
+
 
 ---
 
@@ -106,7 +108,8 @@ start
 - Choose `1` from menu.
 - You should see a **New game started** message and `Game ID`.
 
-![alt text](image-2.png)
+<img width="391" height="177" alt="image" src="https://github.com/user-attachments/assets/34c31f86-ceae-4afd-922a-31595690362d" />
+
 
 ---
 
@@ -121,7 +124,8 @@ abc
 ```
 **Expected:** Red error: `Invalid guess. Please enter exactly 4 digits between 1 and 6.`
 
-![alt text](image-3.png)
+<img width="602" height="286" alt="image" src="https://github.com/user-attachments/assets/03cead7f-a2f3-4fb1-8692-728703c0c60a" />
+
 
 ---
 
@@ -132,7 +136,8 @@ abc
 ```
 **Expected:** Colored digits, peg results.
 
-![alt text](image-4.png)
+<img width="605" height="157" alt="image" src="https://github.com/user-attachments/assets/3985b3c7-97ea-4eb5-b2bc-3aede884aafc" />
+
 
 ---
 
@@ -141,7 +146,8 @@ abc
 
 **Expected:** Green congratulatory message and game deletion notice.
 
-![alt text](image-5.png)
+<img width="577" height="427" alt="image" src="https://github.com/user-attachments/assets/3805f91d-cf76-4a00-b9c5-051cc220c6c1" />
+
 
 ---
 
@@ -150,7 +156,8 @@ abc
 
 **Expected:** Yellow game deletion success message and menu return.
 
-![alt text](image-6.png)
+<img width="580" height="352" alt="image" src="https://github.com/user-attachments/assets/bdf6a399-d863-44ee-a367-3ec16b4d4e17" />
+
 
 ---
 
@@ -159,7 +166,8 @@ abc
 
 **Expected:** Yellow `Thank you for playing! Goodbye!`
 
-![alt text](image-7.png)
+<img width="545" height="137" alt="image" src="https://github.com/user-attachments/assets/e2844af0-6d16-48d9-b81b-84ceaef91bce" />
+
 
 ---
 
